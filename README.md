@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TNKkung</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Thailand</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnkkung" alt="tnkkung" /></a> </p>
 
