@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TNKkung</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnkkung" alt="tnkkung" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnkkung](https://avatars.githubusercontent.com/u/58143743?v=4)" alt="tnkkung" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
